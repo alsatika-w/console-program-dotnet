@@ -1,0 +1,14 @@
+/home/enigma/IdeaProjects/dotnet/bin/Debug/net8.0/dotnet
+/home/enigma/IdeaProjects/dotnet/bin/Debug/net8.0/dotnet.deps.json
+/home/enigma/IdeaProjects/dotnet/bin/Debug/net8.0/dotnet.runtimeconfig.json
+/home/enigma/IdeaProjects/dotnet/bin/Debug/net8.0/dotnet.dll
+/home/enigma/IdeaProjects/dotnet/bin/Debug/net8.0/dotnet.pdb
+/home/enigma/IdeaProjects/dotnet/obj/Debug/net8.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/IdeaProjects/dotnet/obj/Debug/net8.0/dotnet.AssemblyInfoInputs.cache
+/home/enigma/IdeaProjects/dotnet/obj/Debug/net8.0/dotnet.AssemblyInfo.cs
+/home/enigma/IdeaProjects/dotnet/obj/Debug/net8.0/dotnet.csproj.CoreCompileInputs.cache
+/home/enigma/IdeaProjects/dotnet/obj/Debug/net8.0/dotnet.dll
+/home/enigma/IdeaProjects/dotnet/obj/Debug/net8.0/refint/dotnet.dll
+/home/enigma/IdeaProjects/dotnet/obj/Debug/net8.0/dotnet.pdb
+/home/enigma/IdeaProjects/dotnet/obj/Debug/net8.0/dotnet.genruntimeconfig.cache
+/home/enigma/IdeaProjects/dotnet/obj/Debug/net8.0/ref/dotnet.dll
