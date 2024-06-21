@@ -33,9 +33,9 @@ public class ParkingLot
         {
             var vehicle = slots[slotNumber];
             var hoursParked = (DateTime.Now - vehicle.CheckInTime).TotalHours;
-            var parkingFee = Math.Ceiling(hoursParked) * 10; // Example fee calculation
+            var parkingFee = Math.Ceiling(hoursParked) * 5000; // Example fee calculation
             Console.WriteLine($"Slot number {slotNumber} is free");
-            Console.WriteLine($"Total parking fee: ${parkingFee}");
+            Console.WriteLine($"Total parking fee: Rp{parkingFee}");
             slots.Remove(slotNumber);
         }
         else

@@ -12,3 +12,4 @@
 /home/enigma/IdeaProjects/dotnet/obj/Debug/net8.0/dotnet.pdb
 /home/enigma/IdeaProjects/dotnet/obj/Debug/net8.0/dotnet.genruntimeconfig.cache
 /home/enigma/IdeaProjects/dotnet/obj/Debug/net8.0/ref/dotnet.dll
+/home/enigma/IdeaProjects/dotnet/obj/Debug/net8.0/dotnet.sourcelink.json
